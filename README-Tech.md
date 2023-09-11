@@ -1,6 +1,6 @@
 ## Description
 
-Welcome to the Technology Evolution Visualization Tool, an interactive Shiny app designed to facilitate the exploration of technology usage trends over the years. This user guide will walk you through the key functionalities of the program.
+Welcome to the Technology Evolution Visualization Tool, an interactive Shiny app designed to facilitate the exploration of technology usage trends over the years in publications related to Landscape Architecture. This user guide will walk you through the key functionalities of the program.
 
 ### Correlation Plot (Correlation.R)
 
