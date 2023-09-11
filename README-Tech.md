@@ -29,5 +29,8 @@ Please explore '3D Bar (All Category).R' for a comprehensive view of technology 
 Rachel Liu
 xiner@upenn.edu
 
+## Notes from Applied Data Science Librarian
+
+This project is a collaboration with Katarzyna Rędzińska (katarzyna.redzinska@pw.edu.pl or katired@design.upenn.edu) and Beata Dreksler (bd08@aub.edu.lb)
 
 
